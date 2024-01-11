@@ -12,7 +12,7 @@ import java.util.List;
 
 //测试渲染一个图层
 public class TestRenderMap extends JFrame {
-    public static Map map= MapUtil.build(3);
+    public static Map map= MapUtil.build(4);
 
     public TestRenderMap() throws FileNotFoundException, JavaLayerException {
         //初始化
